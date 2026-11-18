@@ -12,6 +12,6 @@ import PageRegister from "./latihan/pages/PageRegister.jsx";
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <PageRegister />
+    <App />
   </StrictMode>,
 )
